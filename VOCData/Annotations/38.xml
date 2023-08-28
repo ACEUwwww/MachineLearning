@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>38.jpg</filename>
+	<path>D:\MachineLearning\YOLOv5\yolov5\VOCData\images\38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>805</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>153</ymin>
+			<xmax>499</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

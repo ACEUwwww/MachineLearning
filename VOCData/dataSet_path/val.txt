@@ -1,0 +1,5 @@
+D:/MachineLearning/YOLOv5/yolov5/VOCData/images/13.jpg
+D:/MachineLearning/YOLOv5/yolov5/VOCData/images/14.jpg
+D:/MachineLearning/YOLOv5/yolov5/VOCData/images/34.jpg
+D:/MachineLearning/YOLOv5/yolov5/VOCData/images/40.jpg
+D:/MachineLearning/YOLOv5/yolov5/VOCData/images/42.jpg

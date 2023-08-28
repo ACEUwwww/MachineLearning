@@ -1,0 +1,8 @@
+train: D:/MachineLearning/YOLOv5/yolov5/VOCData/dataSet_path/train.txt
+val: D:/MachineLearning/YOLOv5/yolov5/VOCData/dataSet_path/val.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ["car"]
